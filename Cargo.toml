@@ -1,0 +1,11 @@
+[package]
+name = "shell-qute"
+version = "0.1.0"
+authors = ["anekos <anekos@snca.net>"]
+repository = "https://github.com/anekos/shell-qute"
+keywords = []
+license-file = "LICENSE"
+readme = "README.md"
+description = "Shell Escaping and Unescaping"
+
+[dependencies]
